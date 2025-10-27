@@ -141,8 +141,8 @@ body {
 /* Gaya gambar float di About */
 .profile-float-img {
   float: left;
-  width: 260px;
-  height: 260px;
+  width: 350px;
+  height: 350px;
   border-radius: 8px;
   margin-right: 25px;
   margin-bottom: 10px;
